@@ -1,0 +1,143 @@
+
+.contenedor{
+    width: 90%;
+    max-width: 1000px;
+}
+
+.lista{
+    font-family: monospace;
+    font-size: larger;
+}
+
+header {
+    margin: 50px 80px 0px 80px;
+    border-left: 2px solid black;
+    border-right:2px solid black;
+}
+
+.espacio{
+    height: 40px;
+    margin: 0px 80px 0px 80px;
+    border-left: 2px solid black;
+    border-right:2px solid black;
+}
+
+main{
+
+    background-color: rgb(255, 255, 255);
+
+    margin: 0px 80px 0px 80px;
+    border-left: 2px solid black;
+    border-right:2px solid black;
+    font-size: larger;
+}
+
+.cara { 
+    position: relative;
+    width: 180px;
+    height: 180px;
+    left: 300px;
+    top: 10px;
+    margin bottom: 20px;
+    margin-top: 20px;
+    border: 3px solid black;
+    background-attachment: scroll;
+background-repeat: no-repeat;
+
+}
+
+
+h2.linea{
+    background-color: rgb(0, 0, 0, 0.8);
+    margin: 0px 80px 0px 80px;
+    border-left: 2px solid black;
+    border-right:2px solid black;
+    
+
+
+}
+.enlace{
+    color: rgb(247, 238, 238);
+    background-color: rgb(0, 0, 0, 0.8);
+    background-size: contain;
+    text-decoration: none;
+    position: relative;
+    left: 300px;
+    padding: 3px;
+    margin: 0;
+    font-family: monospace;
+}
+
+.sobremi{
+    text-align: center;
+    font-family: monospace;
+    color: black;
+    background-size: contain;
+   
+}
+
+.fondo{
+background-color: antiquewhite;
+background-image:
+url("../IMG/5.jpg");
+border: 2px solid black;
+background-size: contain;
+background-attachment: fixed;
+background-repeat: repeat;
+
+
+
+}
+
+.lista{
+    text-decoration: none;
+}
+
+
+h1 {
+    
+    font-family: monospace;
+    letter-spacing: 5px;
+    text-align: center; 
+    background-color: rgba(198, 209, 194, 0.6);
+    margin-bottom: 0;
+    
+
+    
+}
+
+
+h2{
+    background-color: rgb(0, 0, 0, 0.8);
+    color: beige;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 0;
+    font-family: monospace;
+    font-size: larger;
+
+}
+
+
+
+
+span{ 
+    font-family: monospace;
+  
+}
+
+
+
+
+footer {
+    text-align: center;
+    
+    background-color: rgb(0, 0, 0, 0.8);
+    border-left: 2px solid black;
+    border-right:2px solid black;
+    margin: 0px 80px 0px 80px;
+   
+}
+
+
